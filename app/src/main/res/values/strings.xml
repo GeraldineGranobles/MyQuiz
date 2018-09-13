@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="question_one">A cat can run at a speed of 31 mph (49 km/h).</string>
+    <string name="question_two">You can’t be allergic to sphynx cats.</string>
+    <string name="question_three">Cats can see during the evening but not at night.</string>
+    <string name="question_four">Cats can hear three times better than humans.</string>
+    <string name="question_five">There is a breed of cat without a tail.</string>
+    <string name="question_six">Cats see a broad spectrum of colors.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="noPrev_toast">No previous question</string>
+</resources>
